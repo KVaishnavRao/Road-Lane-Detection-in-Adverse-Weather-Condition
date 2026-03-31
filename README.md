@@ -45,7 +45,7 @@ lane-detection/
 │── README.md
 ▶️ Installation & Usage
 # Clone the repository
-git clone https://github.com/yourusername/lane-detection.git
+git clone https://github.com/KVaishnavRao/lane-detection.git
 
 # Navigate to folder
 cd lane-detection
