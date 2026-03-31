@@ -45,7 +45,7 @@ lane-detection/
 │── README.md
 ▶️ Installation & Usage
 # Clone the repository
-git clone https://github.com/KVaishnavRao/lane-detection.git
+git clone https://github.com/KVaishnavRao/Road-Lane-Detection-in-Adverse-Weather-Condition.git
 
 # Navigate to folder
 cd lane-detection
